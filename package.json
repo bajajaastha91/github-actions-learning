@@ -1,0 +1,10 @@
+{
+  "name": "github-actions-learning",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests Passed\"",
+    "lint": "echo \"Lint Passed\"",
+    "build": "echo \"Build Completed\""
+  }
+}
